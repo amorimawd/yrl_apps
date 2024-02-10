@@ -1,0 +1,2210 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 158.662 
+tiers? <exists> 
+size = 13 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "P1.ort" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53484 
+            text = "ere!kui pesu pẽbeu" 
+        intervals [2]:
+            xmin = 2.53484 
+            xmax = 7.15565 
+            text = "" 
+        intervals [3]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "pe mãduaiwã pesã, ape peyã xarãba," 
+        intervals [4]:
+            xmin = 9.2576 
+            xmax = 26.1002 
+            text = "" 
+        intervals [5]:
+            xmin = 26.1002 
+            xmax = 26.7916 
+            text = "ikete!" 
+        intervals [6]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "" 
+        intervals [7]:
+            xmin = 27.732 
+            xmax = 28.6 
+            text = "yane tawa upe" 
+        intervals [8]:
+            xmin = 28.6 
+            xmax = 49.4281 
+            text = "" 
+        intervals [9]:
+            xmin = 49.4281 
+            xmax = 50.0919 
+            text = "tuyu" 
+        intervals [10]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "" 
+        intervals [11]:
+            xmin = 51.3097 
+            xmax = 52.914 
+            text = "ũ" 
+        intervals [12]:
+            xmin = 52.914 
+            xmax = 53.965 
+            text = "mãxĩgata?" 
+        intervals [13]:
+            xmin = 53.965 
+            xmax = 66.8 
+            text = "" 
+        intervals [14]:
+            xmin = 66.8 
+            xmax = 69.0679 
+            text = "mã umẽ tasupe manũga?" 
+        intervals [15]:
+            xmin = 69.0679 
+            xmax = 70.6443 
+            text = "" 
+        intervals [16]:
+            xmin = 70.6443 
+            xmax = 72.8016 
+            text = "manũgata umẽ,umẽ tasupe?" 
+        intervals [17]:
+            xmin = 72.8016 
+            xmax = 79.1202 
+            text = "" 
+        intervals [18]:
+            xmin = 79.1202 
+            xmax = 80.4478 
+            text = "mã umewã peyãrã!" 
+        intervals [19]:
+            xmin = 80.4478 
+            xmax = 88.3501 
+            text = "" 
+        intervals [20]:
+            xmin = 88.3501 
+            xmax = 89.1798 
+            text = "tuyu," 
+        intervals [21]:
+            xmin = 89.1798 
+            xmax = 92.653 
+            text = "" 
+        intervals [22]:
+            xmin = 92.653 
+            xmax = 94.4231 
+            text = "mã imurakiyã" 
+        intervals [23]:
+            xmin = 94.4231 
+            xmax = 94.755 
+            text = "" 
+        intervals [24]:
+            xmin = 94.755 
+            xmax = 96.8293 
+            text = "ape wararã? u usẽutu kuiri asui" 
+        intervals [25]:
+            xmin = 96.8293 
+            xmax = 100.079 
+            text = "" 
+        intervals [26]:
+            xmin = 100.079 
+            xmax = 104.29 
+            text = "ũũ" 
+        intervals [27]:
+            xmin = 104.29 
+            xmax = 105.48 
+            text = "mã akuyẽsei ae?" 
+        intervals [28]:
+            xmin = 105.48 
+            xmax = 116.002 
+            text = "" 
+        intervals [29]:
+            xmin = 116.002 
+            xmax = 116.868 
+            text = "tuyu nẽ," 
+        intervals [30]:
+            xmin = 116.868 
+            xmax = 120.123 
+            text = "" 
+        intervals [31]:
+            xmin = 120.123 
+            xmax = 121.257 
+            text = "uriku ximiriku!" 
+        intervals [32]:
+            xmin = 121.257 
+            xmax = 122.668 
+            text = "" 
+        intervals [33]:
+            xmin = 122.668 
+            xmax = 123.663 
+            text = "tairaita!" 
+        intervals [34]:
+            xmin = 123.663 
+            xmax = 126.885 
+            text = "" 
+        intervals [35]:
+            xmin = 126.885 
+            xmax = 128.406 
+            text = "mã akũitai wera irũ," 
+        intervals [36]:
+            xmin = 128.406 
+            xmax = 139.822 
+            text = "" 
+        intervals [37]:
+            xmin = 139.822 
+            xmax = 143.583 
+            text = "mameta suka ike yãupe,ike, ike yane tawa upe," 
+        intervals [38]:
+            xmin = 143.583 
+            xmax = 153.156 
+            text = "" 
+        intervals [39]:
+            xmin = 153.156 
+            xmax = 154.401 
+            text = "yane prefeitu?" 
+        intervals [40]:
+            xmin = 154.401 
+            xmax = 156.088 
+            text = "" 
+        intervals [41]:
+            xmin = 156.088 
+            xmax = 158.662 
+            text = "ike upa." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "P1.seq" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53484 
+            text = "ere kui pe-su pe-mbeu" 
+        intervals [2]:
+            xmin = 2.53484 
+            xmax = 7.15565 
+            text = "" 
+        intervals [3]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "pe-mãduai=wã pe-saã ape pe-yee ixe=arã" 
+        intervals [4]:
+            xmin = 9.2576 
+            xmax = 26.1002 
+            text = "" 
+        intervals [5]:
+            xmin = 26.1002 
+            xmax = 26.7916 
+            text = "ike te" 
+        intervals [6]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "" 
+        intervals [7]:
+            xmin = 27.732 
+            xmax = 28.6 
+            text = "yane tawa upe" 
+        intervals [8]:
+            xmin = 28.6 
+            xmax = 49.4281 
+            text = "" 
+        intervals [9]:
+            xmin = 49.4281 
+            xmax = 50.0919 
+            text = "tuyu" 
+        intervals [10]:
+            xmin = 50.0919 
+            xmax = 52.914 
+            text = "" 
+        intervals [11]:
+            xmin = 52.914 
+            xmax = 53.965 
+            text = "maye xinga taa" 
+        intervals [12]:
+            xmin = 53.965 
+            xmax = 66.8 
+            text = "" 
+        intervals [13]:
+            xmin = 66.8 
+            xmax = 69.0679 
+            text = "mã u-meẽ ta-supe manũga" 
+        intervals [14]:
+            xmin = 69.0679 
+            xmax = 70.6443 
+            text = "" 
+        intervals [15]:
+            xmin = 70.6443 
+            xmax = 72.8016 
+            text = "manũgata u-meẽ u-meẽ ta-supe" 
+        intervals [16]:
+            xmin = 72.8016 
+            xmax = 79.1202 
+            text = "" 
+        intervals [17]:
+            xmin = 79.1202 
+            xmax = 80.4478 
+            text = "mã u-mee=wã pe=ãrã" 
+        intervals [18]:
+            xmin = 80.4478 
+            xmax = 88.3501 
+            text = "" 
+        intervals [19]:
+            xmin = 88.3501 
+            xmax = 89.1798 
+            text = "" 
+        intervals [20]:
+            xmin = 89.1798 
+            xmax = 92.653 
+            text = "" 
+        intervals [21]:
+            xmin = 92.653 
+            xmax = 94.4231 
+            text = "mã i-muraki yã" 
+        intervals [22]:
+            xmin = 94.4231 
+            xmax = 94.755 
+            text = "" 
+        intervals [23]:
+            xmin = 94.755 
+            xmax = 96.8293 
+            text = "ape wararã u-su u-semu-ntu kuiri asui" 
+        intervals [24]:
+            xmin = 96.8293 
+            xmax = 100.079 
+            text = "" 
+        intervals [25]:
+            xmin = 100.079 
+            xmax = 104.29 
+            text = "" 
+        intervals [26]:
+            xmin = 104.29 
+            xmax = 105.48 
+            text = "mã a-kuyẽsei ae" 
+        intervals [27]:
+            xmin = 105.48 
+            xmax = 116.002 
+            text = "" 
+        intervals [28]:
+            xmin = 116.002 
+            xmax = 116.868 
+            text = "tuyu nẽ" 
+        intervals [29]:
+            xmin = 116.868 
+            xmax = 120.123 
+            text = "" 
+        intervals [30]:
+            xmin = 120.123 
+            xmax = 121.257 
+            text = "u-riku ximiriku" 
+        intervals [31]:
+            xmin = 121.257 
+            xmax = 122.668 
+            text = "" 
+        intervals [32]:
+            xmin = 122.668 
+            xmax = 123.663 
+            text = "taira ita" 
+        intervals [33]:
+            xmin = 123.663 
+            xmax = 126.885 
+            text = "" 
+        intervals [34]:
+            xmin = 126.885 
+            xmax = 128.406 
+            text = "mã a-kũitai wera irũ" 
+        intervals [35]:
+            xmin = 128.406 
+            xmax = 139.822 
+            text = "" 
+        intervals [36]:
+            xmin = 139.822 
+            xmax = 143.583 
+            text = "mame=taa s-uka ike yã upe ike ike yane tawa upe" 
+        intervals [37]:
+            xmin = 143.583 
+            xmax = 153.156 
+            text = "" 
+        intervals [38]:
+            xmin = 153.156 
+            xmax = 154.401 
+            text = "yane prefeitu" 
+        intervals [39]:
+            xmin = 154.401 
+            xmax = 156.088 
+            text = "" 
+        intervals [40]:
+            xmin = 156.088 
+            xmax = 158.662 
+            text = "ike u-pa" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "P1.gloss.pt" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53484 
+            text = "AFF agora 2PL.ACT-ir 2PL.ACT-contar" 
+        intervals [2]:
+            xmin = 2.53484 
+            xmax = 7.15565 
+            text = "" 
+        intervals [3]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "2PL.ACT-lembrar=PRF 2PL.ACT-sentir CONJ 2PL.ACT-dizer 1SG=DAT.PROSP" 
+        intervals [4]:
+            xmin = 9.2576 
+            xmax = 26.1002 
+            text = "" 
+        intervals [5]:
+            xmin = 26.1002 
+            xmax = 26.7916 
+            text = "aqui FOC" 
+        intervals [6]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "" 
+        intervals [7]:
+            xmin = 27.732 
+            xmax = 28.6 
+            text = "1PL cidade LOC" 
+        intervals [8]:
+            xmin = 28.6 
+            xmax = 49.4281 
+            text = "" 
+        intervals [9]:
+            xmin = 49.4281 
+            xmax = 50.0919 
+            text = "homem.velho" 
+        intervals [10]:
+            xmin = 50.0919 
+            xmax = 52.914 
+            text = "" 
+        intervals [11]:
+            xmin = 52.914 
+            xmax = 53.965 
+            text = "ser.como ATT Q" 
+        intervals [12]:
+            xmin = 53.965 
+            xmax = 66.8 
+            text = "" 
+        intervals [13]:
+            xmin = 66.8 
+            xmax = 69.0679 
+            text = "CONJ.ADV 3SG.ACT-dar 3PL.INACT-DAT.EXTR alguma.coisa" 
+        intervals [14]:
+            xmin = 69.0679 
+            xmax = 70.6443 
+            text = "" 
+        intervals [15]:
+            xmin = 70.6443 
+            xmax = 72.8016 
+            text = "alguma.coisa 3SG.ACT-dar 3SG.ACT-dar 3PL.INACT-DAT.EXTR" 
+        intervals [16]:
+            xmin = 72.8016 
+            xmax = 79.1202 
+            text = "" 
+        intervals [17]:
+            xmin = 79.1202 
+            xmax = 80.4478 
+            text = "CONJ.ADV 3SG.ACT-dar=PRF 2PL.NA=DAT.PROSP" 
+        intervals [18]:
+            xmin = 80.4478 
+            xmax = 88.3501 
+            text = "" 
+        intervals [19]:
+            xmin = 88.3501 
+            xmax = 89.1798 
+            text = "homem.velho" 
+        intervals [20]:
+            xmin = 89.1798 
+            xmax = 92.653 
+            text = "" 
+        intervals [21]:
+            xmin = 92.653 
+            xmax = 94.4231 
+            text = "CONJ.ADV 3SG.INACT-trabalho REP" 
+        intervals [22]:
+            xmin = 94.4231 
+            xmax = 94.755 
+            text = "" 
+        intervals [23]:
+            xmin = 94.755 
+            xmax = 96.8293 
+            text = "CONJ.SEQ DNP 3SG.ACT-ir 3SG.ACT-sair-RESTR agora CONJ" 
+        intervals [24]:
+            xmin = 96.8293 
+            xmax = 100.079 
+            text = "" 
+        intervals [25]:
+            xmin = 100.079 
+            xmax = 104.29 
+            text = "" 
+        intervals [26]:
+            xmin = 104.29 
+            xmax = 105.48 
+            text = "CONJ 1SG.ACT-conhecer 3SG" 
+        intervals [27]:
+            xmin = 105.48 
+            xmax = 116.002 
+            text = "" 
+        intervals [28]:
+            xmin = 116.002 
+            xmax = 116.868 
+            text = "homem.velho not.even" 
+        intervals [29]:
+            xmin = 116.868 
+            xmax = 120.123 
+            text = "" 
+        intervals [30]:
+            xmin = 120.123 
+            xmax = 121.257 
+            text = "3SG.ACT-ter 3SG.NA:esposa" 
+        intervals [31]:
+            xmin = 121.257 
+            xmax = 122.668 
+            text = "" 
+        intervals [32]:
+            xmin = 122.668 
+            xmax = 123.663 
+            text = "3SG.NA:filho PL" 
+        intervals [33]:
+            xmin = 123.663 
+            xmax = 126.885 
+            text = "" 
+        intervals [34]:
+            xmin = 126.885 
+            xmax = 128.406 
+            text = "CONJ 1SG.ACT-falar HAB COM.INSTR" 
+        intervals [35]:
+            xmin = 128.406 
+            xmax = 139.822 
+            text = "" 
+        intervals [36]:
+            xmin = 139.822 
+            xmax = 143.583 
+            text = "onde=Q 3SG.INACT-casa aqui DEM.DIST LOC aqui aqui 1PL cidade LOC" 
+        intervals [37]:
+            xmin = 143.583 
+            xmax = 153.156 
+            text = "" 
+        intervals [38]:
+            xmin = 153.156 
+            xmax = 154.401 
+            text = "1PL prefeito" 
+        intervals [39]:
+            xmin = 154.401 
+            xmax = 156.088 
+            text = "" 
+        intervals [40]:
+            xmin = 156.088 
+            xmax = 158.662 
+            text = "aqui 3SG.ACT-acabar" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "P1.gloss.en" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53484 
+            text = "AFF now 2PL.ACT-ir 2PL.ACT-count" 
+        intervals [2]:
+            xmin = 2.53484 
+            xmax = 7.15565 
+            text = "" 
+        intervals [3]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "2PL.ACT-remember=PRF 2PL.ACT-feel CONJ 2PL.ACT-say 1SG=DAT.PROSP" 
+        intervals [4]:
+            xmin = 9.2576 
+            xmax = 26.1002 
+            text = "" 
+        intervals [5]:
+            xmin = 26.1002 
+            xmax = 26.7916 
+            text = "here FOC" 
+        intervals [6]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "" 
+        intervals [7]:
+            xmin = 27.732 
+            xmax = 28.6 
+            text = "1PL city LOC" 
+        intervals [8]:
+            xmin = 28.6 
+            xmax = 49.4281 
+            text = "" 
+        intervals [9]:
+            xmin = 49.4281 
+            xmax = 50.0919 
+            text = "old.man" 
+        intervals [10]:
+            xmin = 50.0919 
+            xmax = 52.914 
+            text = "" 
+        intervals [11]:
+            xmin = 52.914 
+            xmax = 53.965 
+            text = "be.like ATT Q" 
+        intervals [12]:
+            xmin = 53.965 
+            xmax = 66.8 
+            text = "" 
+        intervals [13]:
+            xmin = 66.8 
+            xmax = 69.0679 
+            text = "CONJ.ADV 3SG.ACT-give 3PL.INACT-DAT.EXTR something" 
+        intervals [14]:
+            xmin = 69.0679 
+            xmax = 70.6443 
+            text = "" 
+        intervals [15]:
+            xmin = 70.6443 
+            xmax = 72.8016 
+            text = "something 3SG.ACT-give 3SG.ACT-give 3PL.INACT-DAT.EXTR" 
+        intervals [16]:
+            xmin = 72.8016 
+            xmax = 79.1202 
+            text = "" 
+        intervals [17]:
+            xmin = 79.1202 
+            xmax = 80.4478 
+            text = "CONJ.ADV 3SG.ACT-give=PRF 2PL.NA=DAT.PROSP" 
+        intervals [18]:
+            xmin = 80.4478 
+            xmax = 88.3501 
+            text = "" 
+        intervals [19]:
+            xmin = 88.3501 
+            xmax = 89.1798 
+            text = "old.man" 
+        intervals [20]:
+            xmin = 89.1798 
+            xmax = 92.653 
+            text = "" 
+        intervals [21]:
+            xmin = 92.653 
+            xmax = 94.4231 
+            text = "CONJ.ADV 3SG.INACT-work REP" 
+        intervals [22]:
+            xmin = 94.4231 
+            xmax = 94.755 
+            text = "" 
+        intervals [23]:
+            xmin = 94.755 
+            xmax = 96.8293 
+            text = "CONJ.SEQ DNP 3SG.ACT-go 3SG.ACT-exit-RESTR now CONJ" 
+        intervals [24]:
+            xmin = 96.8293 
+            xmax = 100.079 
+            text = "" 
+        intervals [25]:
+            xmin = 100.079 
+            xmax = 104.29 
+            text = "" 
+        intervals [26]:
+            xmin = 104.29 
+            xmax = 105.48 
+            text = "CONJ 1SG.ACT-know 3SG" 
+        intervals [27]:
+            xmin = 105.48 
+            xmax = 116.002 
+            text = "" 
+        intervals [28]:
+            xmin = 116.002 
+            xmax = 116.868 
+            text = "old.man nor" 
+        intervals [29]:
+            xmin = 116.868 
+            xmax = 120.123 
+            text = "" 
+        intervals [30]:
+            xmin = 120.123 
+            xmax = 121.257 
+            text = "3SG.ACT-have 3SG.NA:wife" 
+        intervals [31]:
+            xmin = 121.257 
+            xmax = 122.668 
+            text = "" 
+        intervals [32]:
+            xmin = 122.668 
+            xmax = 123.663 
+            text = "3SG.NA:son PL" 
+        intervals [33]:
+            xmin = 123.663 
+            xmax = 126.885 
+            text = "" 
+        intervals [34]:
+            xmin = 126.885 
+            xmax = 128.406 
+            text = "CONJ 1SG.ACT-speak HAB COM.INSTR" 
+        intervals [35]:
+            xmin = 128.406 
+            xmax = 139.822 
+            text = "" 
+        intervals [36]:
+            xmin = 139.822 
+            xmax = 143.583 
+            text = "where=Q 3SG.INACT-house here DEM.DIST LOC here here 1PL city LOC" 
+        intervals [37]:
+            xmin = 143.583 
+            xmax = 153.156 
+            text = "" 
+        intervals [38]:
+            xmin = 153.156 
+            xmax = 154.401 
+            text = "1PL mayor" 
+        intervals [39]:
+            xmin = 154.401 
+            xmax = 156.088 
+            text = "" 
+        intervals [40]:
+            xmin = 156.088 
+            xmax = 158.662 
+            text = "here 3SG.ACT-finish" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "P1.transl.pt" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53484 
+            text = "ok!agora vocês vão dizer" 
+        intervals [2]:
+            xmin = 2.53484 
+            xmax = 7.15565 
+            text = "" 
+        intervals [3]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "pensa ja ai, ai vocês falam pra mim" 
+        intervals [4]:
+            xmin = 9.2576 
+            xmax = 26.1002 
+            text = "" 
+        intervals [5]:
+            xmin = 26.1002 
+            xmax = 26.7916 
+            text = "'aqui mesmo'" 
+        intervals [6]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "" 
+        intervals [7]:
+            xmin = 27.732 
+            xmax = 28.6 
+            text = "em nossa cidade," 
+        intervals [8]:
+            xmin = 28.6 
+            xmax = 49.4281 
+            text = "" 
+        intervals [9]:
+            xmin = 49.4281 
+            xmax = 50.0919 
+            text = "velho" 
+        intervals [10]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "" 
+        intervals [11]:
+            xmin = 51.3097 
+            xmax = 52.914 
+            text = "hum" 
+        intervals [12]:
+            xmin = 52.914 
+            xmax = 53.965 
+            text = "o que mais?" 
+        intervals [13]:
+            xmin = 53.965 
+            xmax = 56.7469 
+            text = "dá alguma cosisa,dá para eles" 
+        intervals [14]:
+            xmin = 56.7469 
+            xmax = 66.8 
+            text = "" 
+        intervals [15]:
+            xmin = 66.8 
+            xmax = 69.0679 
+            text = "mas da-lhe algumas coisa pra eles?" 
+        intervals [16]:
+            xmin = 69.0679 
+            xmax = 70.6443 
+            text = "" 
+        intervals [17]:
+            xmin = 70.6443 
+            xmax = 72.8016 
+            text = "o que ele dá, dá para eles?" 
+        intervals [18]:
+            xmin = 72.8016 
+            xmax = 79.1202 
+            text = "" 
+        intervals [19]:
+            xmin = 79.1202 
+            xmax = 80.4478 
+            text = "Mas ele ja deu pra vocês!" 
+        intervals [20]:
+            xmin = 80.4478 
+            xmax = 88.3501 
+            text = "" 
+        intervals [21]:
+            xmin = 88.3501 
+            xmax = 89.1798 
+            text = "velho," 
+        intervals [22]:
+            xmin = 89.1798 
+            xmax = 92.653 
+            text = "" 
+        intervals [23]:
+            xmin = 92.653 
+            xmax = 94.4231 
+            text = "mas este é o trabalho dele" 
+        intervals [24]:
+            xmin = 94.4231 
+            xmax = 94.755 
+            text = "" 
+        intervals [25]:
+            xmin = 94.755 
+            xmax = 96.8293 
+            text = "fixo? ou vai sair de la," 
+        intervals [26]:
+            xmin = 96.8293 
+            xmax = 100.079 
+            text = "" 
+        intervals [27]:
+            xmin = 100.079 
+            xmax = 104.29 
+            text = "humm" 
+        intervals [28]:
+            xmin = 104.29 
+            xmax = 105.48 
+            text = "Mas conheço ele?" 
+        intervals [29]:
+            xmin = 105.48 
+            xmax = 116.002 
+            text = "" 
+        intervals [30]:
+            xmin = 116.002 
+            xmax = 116.868 
+            text = "velho nem," 
+        intervals [31]:
+            xmin = 116.868 
+            xmax = 120.123 
+            text = "" 
+        intervals [32]:
+            xmin = 120.123 
+            xmax = 121.257 
+            text = "tem esposa!" 
+        intervals [33]:
+            xmin = 121.257 
+            xmax = 122.668 
+            text = "" 
+        intervals [34]:
+            xmin = 122.668 
+            xmax = 123.663 
+            text = "os filhos" 
+        intervals [35]:
+            xmin = 123.663 
+            xmax = 126.885 
+            text = "" 
+        intervals [36]:
+            xmin = 126.885 
+            xmax = 128.406 
+            text = "mas sempre converso com ele," 
+        intervals [37]:
+            xmin = 128.406 
+            xmax = 139.822 
+            text = "" 
+        intervals [38]:
+            xmin = 139.822 
+            xmax = 143.583 
+            text = "onde a casa dele fica neste, aqui,aqui na nossa cidade" 
+        intervals [39]:
+            xmin = 143.583 
+            xmax = 153.156 
+            text = "" 
+        intervals [40]:
+            xmin = 153.156 
+            xmax = 154.401 
+            text = "nosso prefeito?" 
+        intervals [41]:
+            xmin = 154.401 
+            xmax = 156.088 
+            text = "" 
+        intervals [42]:
+            xmin = 156.088 
+            xmax = 158.662 
+            text = "fim." 
+    item [6]:
+        class = "IntervalTier" 
+        name = "P1.transl.en" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.53484 
+            text = "ok! now you will say" 
+        intervals [2]:
+            xmin = 2.53484 
+            xmax = 7.15565 
+            text = "" 
+        intervals [3]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "think about it, then you tell me" 
+        intervals [4]:
+            xmin = 9.2576 
+            xmax = 26.1002 
+            text = "" 
+        intervals [5]:
+            xmin = 26.1002 
+            xmax = 26.7916 
+            text = "'right here'" 
+        intervals [6]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "" 
+        intervals [7]:
+            xmin = 27.732 
+            xmax = 28.6 
+            text = "in our city," 
+        intervals [8]:
+            xmin = 28.6 
+            xmax = 49.4281 
+            text = "" 
+        intervals [9]:
+            xmin = 49.4281 
+            xmax = 50.0919 
+            text = "old man" 
+        intervals [10]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "" 
+        intervals [11]:
+            xmin = 51.3097 
+            xmax = 52.914 
+            text = "hmm" 
+        intervals [12]:
+            xmin = 52.914 
+            xmax = 53.965 
+            text = "what else?" 
+        intervals [13]:
+            xmin = 53.965 
+            xmax = 56.7469 
+            text = "give something, give it to them" 
+        intervals [14]:
+            xmin = 56.7469 
+            xmax = 66.8 
+            text = "" 
+        intervals [15]:
+            xmin = 66.8 
+            xmax = 69.0679 
+            text = "but does he give them a few things?" 
+        intervals [16]:
+            xmin = 69.0679 
+            xmax = 70.6443 
+            text = "" 
+        intervals [17]:
+            xmin = 70.6443 
+            xmax = 72.8016 
+            text = "What he gives, does he give to them?" 
+        intervals [18]:
+            xmin = 72.8016 
+            xmax = 79.1202 
+            text = "" 
+        intervals [19]:
+            xmin = 79.1202 
+            xmax = 80.4478 
+            text = "But he already gave it to you all!" 
+        intervals [20]:
+            xmin = 80.4478 
+            xmax = 88.3501 
+            text = "" 
+        intervals [21]:
+            xmin = 88.3501 
+            xmax = 89.1798 
+            text = "old man" 
+        intervals [22]:
+            xmin = 89.1798 
+            xmax = 92.653 
+            text = "" 
+        intervals [23]:
+            xmin = 92.653 
+            xmax = 94.4231 
+            text = "but this is his work" 
+        intervals [24]:
+            xmin = 94.4231 
+            xmax = 94.755 
+            text = "" 
+        intervals [25]:
+            xmin = 94.755 
+            xmax = 96.8293 
+            text = "fixed? or are you going to leave," 
+        intervals [26]:
+            xmin = 96.8293 
+            xmax = 100.079 
+            text = "" 
+        intervals [27]:
+            xmin = 100.079 
+            xmax = 104.29 
+            text = "humm" 
+        intervals [28]:
+            xmin = 104.29 
+            xmax = 105.48 
+            text = "But do I know him?" 
+        intervals [29]:
+            xmin = 105.48 
+            xmax = 116.002 
+            text = "" 
+        intervals [30]:
+            xmin = 116.002 
+            xmax = 116.868 
+            text = "the old man doesn't even..." 
+        intervals [31]:
+            xmin = 116.868 
+            xmax = 120.123 
+            text = "" 
+        intervals [32]:
+            xmin = 120.123 
+            xmax = 121.257 
+            text = "have a wife!" 
+        intervals [33]:
+            xmin = 121.257 
+            xmax = 122.668 
+            text = "" 
+        intervals [34]:
+            xmin = 122.668 
+            xmax = 123.663 
+            text = "the children" 
+        intervals [35]:
+            xmin = 123.663 
+            xmax = 126.885 
+            text = "" 
+        intervals [36]:
+            xmin = 126.885 
+            xmax = 128.406 
+            text = "But I always talk to him," 
+        intervals [37]:
+            xmin = 128.406 
+            xmax = 139.822 
+            text = "" 
+        intervals [38]:
+            xmin = 139.822 
+            xmax = 143.583 
+            text = "where his house is in this, here, here in our city" 
+        intervals [39]:
+            xmin = 143.583 
+            xmax = 153.156 
+            text = "" 
+        intervals [40]:
+            xmin = 153.156 
+            xmax = 154.401 
+            text = "our mayor?" 
+        intervals [41]:
+            xmin = 154.401 
+            xmax = 156.088 
+            text = "" 
+        intervals [42]:
+            xmin = 156.088 
+            xmax = 158.662 
+            text = "end." 
+    item [7]:
+        class = "IntervalTier" 
+        name = "P2.ort" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.0846 
+            text = "" 
+        intervals [2]:
+            xmin = 17.0846 
+            xmax = 18.3015 
+            text = "aikue yepe" 
+        intervals [3]:
+            xmin = 18.3015 
+            xmax = 19.4631 
+            text = "" 
+        intervals [4]:
+            xmin = 19.4631 
+            xmax = 21.3715 
+            text = "tuyu" 
+        intervals [5]:
+            xmin = 21.3715 
+            xmax = 23.1685 
+            text = "" 
+        intervals [6]:
+            xmin = 23.1685 
+            xmax = 25.1598 
+            text = "umuraiwa ikete cidade upe," 
+        intervals [7]:
+            xmin = 25.1598 
+            xmax = 26.7916 
+            text = "" 
+        intervals [8]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "ikete umurai" 
+        intervals [9]:
+            xmin = 27.732 
+            xmax = 29.668 
+            text = "" 
+        intervals [10]:
+            xmin = 29.668 
+            xmax = 30.7743 
+            text = "asui ae" 
+        intervals [11]:
+            xmin = 30.7743 
+            xmax = 33.6312 
+            text = "" 
+        intervals [12]:
+            xmin = 33.6312 
+            xmax = 34.7928 
+            text = "siya viaje" 
+        intervals [13]:
+            xmin = 34.7928 
+            xmax = 35.1247 
+            text = "" 
+        intervals [14]:
+            xmin = 35.1247 
+            xmax = 36.7012 
+            text = "mira tausikai ae," 
+        intervals [15]:
+            xmin = 36.7012 
+            xmax = 37.0607 
+            text = "" 
+        intervals [16]:
+            xmin = 37.0607 
+            xmax = 38.6649 
+            text = "tapurãdu irũ manũga" 
+        intervals [17]:
+            xmin = 38.6649 
+            xmax = 43.1499 
+            text = "" 
+        intervals [18]:
+            xmin = 43.1499 
+            xmax = 46.5518 
+            text = "amũ rame uwajudai! amũ rame ti uwajudai amũita," 
+        intervals [19]:
+            xmin = 46.5518 
+            xmax = 50.0919 
+            text = "" 
+        intervals [20]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "yepe tuyu," 
+        intervals [21]:
+            xmin = 51.3097 
+            xmax = 56.7469 
+            text = "" 
+        intervals [22]:
+            xmin = 56.7469 
+            xmax = 60.7849 
+            text = "yepe-yepẽtu uwajudai miraita amũ miraita ti uwajudai" 
+        intervals [23]:
+            xmin = 60.7849 
+            xmax = 63.4258 
+            text = "" 
+        intervals [24]:
+            xmin = 63.4258 
+            xmax = 66.8 
+            text = "uparawakãtu amũrame umẽ manũga amũitasupe" 
+        intervals [25]:
+            xmin = 66.8 
+            xmax = 72.8016 
+            text = "" 
+        intervals [26]:
+            xmin = 72.8016 
+            xmax = 74.0958 
+            text = "maã tapurãdu irũ" 
+        intervals [27]:
+            xmin = 74.0958 
+            xmax = 81.0286 
+            text = "" 
+        intervals [28]:
+            xmin = 81.0286 
+            xmax = 82.9093 
+            text = "yãda nũka umẽ yãda, manũga " 
+        intervals [29]:
+            xmin = 82.9093 
+            xmax = 83.3518 
+            text = "" 
+        intervals [30]:
+            xmin = 83.3518 
+            xmax = 84.5134 
+            text = "mã amũita supe umẽ," 
+        intervals [31]:
+            xmin = 84.5134 
+            xmax = 98.4745 
+            text = "" 
+        intervals [32]:
+            xmin = 98.4745 
+            xmax = 100.079 
+            text = "kueratuã usẽurã asui" 
+        intervals [33]:
+            xmin = 100.079 
+            xmax = 105.48 
+            text = "" 
+        intervals [34]:
+            xmin = 105.48 
+            xmax = 106.475 
+            text = "rekuyẽsei" 
+        intervals [35]:
+            xmin = 106.475 
+            xmax = 121.257 
+            text = "" 
+        intervals [36]:
+            xmin = 121.257 
+            xmax = 122.17 
+            text = "uriku," 
+        intervals [37]:
+            xmin = 122.17 
+            xmax = 123.663 
+            text = "" 
+        intervals [38]:
+            xmin = 123.663 
+            xmax = 124.272 
+            text = "uriku," 
+        intervals [39]:
+            xmin = 124.272 
+            xmax = 129.374 
+            text = "" 
+        intervals [40]:
+            xmin = 129.374 
+            xmax = 131.034 
+            text = "amũ rame wera rekũtai," 
+        intervals [41]:
+            xmin = 131.034 
+            xmax = 146.183 
+            text = "" 
+        intervals [42]:
+            xmin = 146.183 
+            xmax = 147.234 
+            text = "pita mĩ" 
+        intervals [43]:
+            xmin = 147.234 
+            xmax = 148.257 
+            text = "" 
+        intervals [44]:
+            xmin = 148.257 
+            xmax = 149.751 
+            text = "garapa bãda kiti!" 
+        intervals [45]:
+            xmin = 149.751 
+            xmax = 155.037 
+            text = "" 
+        intervals [46]:
+            xmin = 155.037 
+            xmax = 155.756 
+            text = "aite!" 
+        intervals [47]:
+            xmin = 155.756 
+            xmax = 158.662 
+            text = "" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "P2.seq" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.0846 
+            text = "" 
+        intervals [2]:
+            xmin = 17.0846 
+            xmax = 18.3015 
+            text = "aikue yepe" 
+        intervals [3]:
+            xmin = 18.3015 
+            xmax = 19.4631 
+            text = "" 
+        intervals [4]:
+            xmin = 19.4631 
+            xmax = 21.3715 
+            text = "tuyu" 
+        intervals [5]:
+            xmin = 21.3715 
+            xmax = 23.1685 
+            text = "" 
+        intervals [6]:
+            xmin = 23.1685 
+            xmax = 25.1598 
+            text = "u-murai waa ike te cidade upe" 
+        intervals [7]:
+            xmin = 25.1598 
+            xmax = 26.7916 
+            text = "" 
+        intervals [8]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "ike te u-murai" 
+        intervals [9]:
+            xmin = 27.732 
+            xmax = 29.668 
+            text = "" 
+        intervals [10]:
+            xmin = 29.668 
+            xmax = 30.7743 
+            text = "asui ae" 
+        intervals [11]:
+            xmin = 30.7743 
+            xmax = 33.6312 
+            text = "" 
+        intervals [12]:
+            xmin = 33.6312 
+            xmax = 34.7928 
+            text = "siya viaje" 
+        intervals [13]:
+            xmin = 34.7928 
+            xmax = 35.1247 
+            text = "" 
+        intervals [14]:
+            xmin = 35.1247 
+            xmax = 36.7012 
+            text = "mira tau-sikai ae" 
+        intervals [15]:
+            xmin = 36.7012 
+            xmax = 37.0607 
+            text = "" 
+        intervals [16]:
+            xmin = 37.0607 
+            xmax = 38.6649 
+            text = "tau-purãdu irũ manũga" 
+        intervals [17]:
+            xmin = 38.6649 
+            xmax = 43.1499 
+            text = "" 
+        intervals [18]:
+            xmin = 43.1499 
+            xmax = 46.5518 
+            text = "amũ rame u-wajudai amũ rame ti u-wajudai amũ ita" 
+        intervals [19]:
+            xmin = 46.5518 
+            xmax = 50.0919 
+            text = "" 
+        intervals [20]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "yepe tuyu" 
+        intervals [21]:
+            xmin = 51.3097 
+            xmax = 56.7469 
+            text = "" 
+        intervals [22]:
+            xmin = 56.7469 
+            xmax = 60.7849 
+            text = "yepe-yepe=ntu u-wajudai mira ita amũ mira ita ti u-wajudai" 
+        intervals [23]:
+            xmin = 60.7849 
+            xmax = 63.4258 
+            text = "" 
+        intervals [24]:
+            xmin = 63.4258 
+            xmax = 66.8 
+            text = "u-parawaka-ntu amũ-rame u-meẽ manũga amũ ita supe" 
+        intervals [25]:
+            xmin = 66.8 
+            xmax = 72.8016 
+            text = "" 
+        intervals [26]:
+            xmin = 72.8016 
+            xmax = 74.0958 
+            text = "maã tau-purãdu irũ" 
+        intervals [27]:
+            xmin = 74.0958 
+            xmax = 81.0286 
+            text = "" 
+        intervals [28]:
+            xmin = 81.0286 
+            xmax = 82.9093 
+            text = "yãde=arã nũka u-meẽ yãde=arã manũga " 
+        intervals [29]:
+            xmin = 82.9093 
+            xmax = 83.3518 
+            text = "" 
+        intervals [30]:
+            xmin = 83.3518 
+            xmax = 84.5134 
+            text = "mã amũ ita supe u-meẽ" 
+        intervals [31]:
+            xmin = 84.5134 
+            xmax = 98.4745 
+            text = "" 
+        intervals [32]:
+            xmin = 98.4745 
+            xmax = 100.079 
+            text = "kuera=ntu=wã u-sẽu=rã asui" 
+        intervals [33]:
+            xmin = 100.079 
+            xmax = 105.48 
+            text = "" 
+        intervals [34]:
+            xmin = 105.48 
+            xmax = 106.475 
+            text = "re-kuyẽsei" 
+        intervals [35]:
+            xmin = 106.475 
+            xmax = 121.257 
+            text = "" 
+        intervals [36]:
+            xmin = 121.257 
+            xmax = 122.17 
+            text = "u-riku" 
+        intervals [37]:
+            xmin = 122.17 
+            xmax = 123.663 
+            text = "" 
+        intervals [38]:
+            xmin = 123.663 
+            xmax = 124.272 
+            text = "u-riku" 
+        intervals [39]:
+            xmin = 124.272 
+            xmax = 129.374 
+            text = "" 
+        intervals [40]:
+            xmin = 129.374 
+            xmax = 131.034 
+            text = "amũ rame wera re-kũtai" 
+        intervals [41]:
+            xmin = 131.034 
+            xmax = 146.183 
+            text = "" 
+        intervals [42]:
+            xmin = 146.183 
+            xmax = 147.234 
+            text = "" 
+        intervals [43]:
+            xmin = 147.234 
+            xmax = 148.257 
+            text = "" 
+        intervals [44]:
+            xmin = 148.257 
+            xmax = 149.751 
+            text = "" 
+        intervals [45]:
+            xmin = 149.751 
+            xmax = 155.037 
+            text = "" 
+        intervals [46]:
+            xmin = 155.037 
+            xmax = 155.756 
+            text = "ae=te" 
+        intervals [47]:
+            xmin = 155.756 
+            xmax = 158.662 
+            text = "" 
+    item [9]:
+        class = "IntervalTier" 
+        name = "P2.gloss.pt" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.0846 
+            text = "" 
+        intervals [2]:
+            xmin = 17.0846 
+            xmax = 18.3015 
+            text = "EXIST INDF" 
+        intervals [3]:
+            xmin = 18.3015 
+            xmax = 19.4631 
+            text = "" 
+        intervals [4]:
+            xmin = 19.4631 
+            xmax = 21.3715 
+            text = "homem.velho" 
+        intervals [5]:
+            xmin = 21.3715 
+            xmax = 23.1685 
+            text = "" 
+        intervals [6]:
+            xmin = 23.1685 
+            xmax = 25.1598 
+            text = "3SG.ACT-morar REL aqui FOC cidade LOC" 
+        intervals [7]:
+            xmin = 25.1598 
+            xmax = 26.7916 
+            text = "" 
+        intervals [8]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "aqui FOC 3SG.ACT-morar" 
+        intervals [9]:
+            xmin = 27.732 
+            xmax = 29.668 
+            text = "" 
+        intervals [10]:
+            xmin = 29.668 
+            xmax = 30.7743 
+            text = "CONJ 3SG" 
+        intervals [11]:
+            xmin = 30.7743 
+            xmax = 33.6312 
+            text = "" 
+        intervals [12]:
+            xmin = 33.6312 
+            xmax = 34.7928 
+            text = "várias.entidades vez" 
+        intervals [13]:
+            xmin = 34.7928 
+            xmax = 35.1247 
+            text = "" 
+        intervals [14]:
+            xmin = 35.1247 
+            xmax = 36.7012 
+            text = "pessoa 3PL.ACT-procurar 3SG" 
+        intervals [15]:
+            xmin = 36.7012 
+            xmax = 37.0607 
+            text = "" 
+        intervals [16]:
+            xmin = 37.0607 
+            xmax = 38.6649 
+            text = "3PL.ACT-perguntar COM.INSTR alguma.coisa" 
+        intervals [17]:
+            xmin = 38.6649 
+            xmax = 43.1499 
+            text = "" 
+        intervals [18]:
+            xmin = 43.1499 
+            xmax = 46.5518 
+            text = "outra.entidade SUB.TEMP 3SG.ACT-ajudar outra.entidade SUB.TEMP outra.entidade NEG 3SG.ACT-ajudar outra.entidade PL" 
+        intervals [19]:
+            xmin = 46.5518 
+            xmax = 50.0919 
+            text = "" 
+        intervals [20]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "INDF homem.velho" 
+        intervals [21]:
+            xmin = 51.3097 
+            xmax = 56.7469 
+            text = "" 
+        intervals [22]:
+            xmin = 56.7469 
+            xmax = 60.7849 
+            text = "INDF-INDF=RESTR 3SG.ACT-ajudar pessoa PL outra.entidade pessoa PL NEG 3SG.ACT-ajudar" 
+        intervals [23]:
+            xmin = 60.7849 
+            xmax = 63.4258 
+            text = "" 
+        intervals [24]:
+            xmin = 63.4258 
+            xmax = 66.8 
+            text = "3SG.ACT-escolher-RESTR outra.entidade SUB.TEMP 3SG.ACT-dar alguma.coisa outra.entidade PL DAT.EXTR" 
+        intervals [25]:
+            xmin = 66.8 
+            xmax = 72.8016 
+            text = "" 
+        intervals [26]:
+            xmin = 72.8016 
+            xmax = 74.0958 
+            text = "NG 3SG.ACT-perguntar COM.INSTR" 
+        intervals [27]:
+            xmin = 74.0958 
+            xmax = 81.0286 
+            text = "" 
+        intervals [28]:
+            xmin = 81.0286 
+            xmax = 82.9093 
+            text = "1PL=DAT.PROSP nunca 3SG.ACT-dar 1PL=DAT.PROSP alguma.coisa" 
+        intervals [29]:
+            xmin = 82.9093 
+            xmax = 83.3518 
+            text = "" 
+        intervals [30]:
+            xmin = 83.3518 
+            xmax = 84.5134 
+            text = "CONJ.ADV outra.entidade PL DAT.EXTR 3SG.ACT-dar" 
+        intervals [31]:
+            xmin = 84.5134 
+            xmax = 98.4745 
+            text = "" 
+        intervals [32]:
+            xmin = 98.4745 
+            xmax = 100.079 
+            text = "NGC=RESTR=PRF 3SG.ACT-sair=SUB.FIN CONJ" 
+        intervals [33]:
+            xmin = 100.079 
+            xmax = 105.48 
+            text = "" 
+        intervals [34]:
+            xmin = 105.48 
+            xmax = 106.475 
+            text = "2SG.ACT-conhecer" 
+        intervals [35]:
+            xmin = 106.475 
+            xmax = 121.257 
+            text = "" 
+        intervals [36]:
+            xmin = 121.257 
+            xmax = 122.17 
+            text = "3SG.ACT-ter" 
+        intervals [37]:
+            xmin = 122.17 
+            xmax = 123.663 
+            text = "" 
+        intervals [38]:
+            xmin = 123.663 
+            xmax = 124.272 
+            text = "3SG.ACT-ter" 
+        intervals [39]:
+            xmin = 124.272 
+            xmax = 129.374 
+            text = "" 
+        intervals [40]:
+            xmin = 129.374 
+            xmax = 131.034 
+            text = "outra.entidade SUB.TEMP HAB 2SG.ACT-falar" 
+        intervals [41]:
+            xmin = 131.034 
+            xmax = 146.183 
+            text = "" 
+        intervals [42]:
+            xmin = 146.183 
+            xmax = 147.234 
+            text = "ficar lá" 
+        intervals [43]:
+            xmin = 147.234 
+            xmax = 148.257 
+            text = "" 
+        intervals [44]:
+            xmin = 148.257 
+            xmax = 149.751 
+            text = "porto lado ALL" 
+        intervals [45]:
+            xmin = 149.751 
+            xmax = 155.037 
+            text = "" 
+        intervals [46]:
+            xmin = 155.037 
+            xmax = 155.756 
+            text = "3SG=FOC" 
+        intervals [47]:
+            xmin = 155.756 
+            xmax = 158.662 
+            text = "" 
+    item [10]:
+        class = "IntervalTier" 
+        name = "P2.gloss.en" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.0846 
+            text = "" 
+        intervals [2]:
+            xmin = 17.0846 
+            xmax = 18.3015 
+            text = "EXIST INDF" 
+        intervals [3]:
+            xmin = 18.3015 
+            xmax = 19.4631 
+            text = "" 
+        intervals [4]:
+            xmin = 19.4631 
+            xmax = 21.3715 
+            text = "old.man" 
+        intervals [5]:
+            xmin = 21.3715 
+            xmax = 23.1685 
+            text = "" 
+        intervals [6]:
+            xmin = 23.1685 
+            xmax = 25.1598 
+            text = "3SG.ACT-more REL here FOC city LOC" 
+        intervals [7]:
+            xmin = 25.1598 
+            xmax = 26.7916 
+            text = "" 
+        intervals [8]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "here FOC 3SG.ACT-more" 
+        intervals [9]:
+            xmin = 27.732 
+            xmax = 29.668 
+            text = "" 
+        intervals [10]:
+            xmin = 29.668 
+            xmax = 30.7743 
+            text = "CONJ 3SG" 
+        intervals [11]:
+            xmin = 30.7743 
+            xmax = 33.6312 
+            text = "" 
+        intervals [12]:
+            xmin = 33.6312 
+            xmax = 34.7928 
+            text = "various.entities once" 
+        intervals [13]:
+            xmin = 34.7928 
+            xmax = 35.1247 
+            text = "" 
+        intervals [14]:
+            xmin = 35.1247 
+            xmax = 36.7012 
+            text = "person 3PL.ACT-seek 3SG" 
+        intervals [15]:
+            xmin = 36.7012 
+            xmax = 37.0607 
+            text = "" 
+        intervals [16]:
+            xmin = 37.0607 
+            xmax = 38.6649 
+            text = "3PL.ACT-ask COM.INSTR something" 
+        intervals [17]:
+            xmin = 38.6649 
+            xmax = 43.1499 
+            text = "" 
+        intervals [18]:
+            xmin = 43.1499 
+            xmax = 46.5518 
+            text = "other.entity SUB.TEMP 3SG.ACT-help other.entity SUB.TEMP other.entity NEG 3SG.ACT-help other.entity PL" 
+        intervals [19]:
+            xmin = 46.5518 
+            xmax = 50.0919 
+            text = "" 
+        intervals [20]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "INDF man.old" 
+        intervals [21]:
+            xmin = 51.3097 
+            xmax = 56.7469 
+            text = "" 
+        intervals [22]:
+            xmin = 56.7469 
+            xmax = 60.7849 
+            text = "INDF-INDF=RESTR 3SG.ACT-help person PL other.entity PL NEG 3SG.ACT-help person" 
+        intervals [23]:
+            xmin = 60.7849 
+            xmax = 63.4258 
+            text = "" 
+        intervals [24]:
+            xmin = 63.4258 
+            xmax = 66.8 
+            text = "3SG.ACT-choose-RESTR another.entity SUB.TEMP 3SG.ACT-give something another.entity PL DAT.EXTR" 
+        intervals [25]:
+            xmin = 66.8 
+            xmax = 72.8016 
+            text = "" 
+        intervals [26]:
+            xmin = 72.8016 
+            xmax = 74.0958 
+            text = "NG 3SG.ACT-ask COM.INSTR" 
+        intervals [27]:
+            xmin = 74.0958 
+            xmax = 81.0286 
+            text = "" 
+        intervals [28]:
+            xmin = 81.0286 
+            xmax = 82.9093 
+            text = "1PL=DAT.PROSP never 3SG.ACT-give 1PL=DAT.PROSP something" 
+        intervals [29]:
+            xmin = 82.9093 
+            xmax = 83.3518 
+            text = "" 
+        intervals [30]:
+            xmin = 83.3518 
+            xmax = 84.5134 
+            text = "CONJ.ADV other entity PL DAT.EXTR 3SG.ACT-give" 
+        intervals [31]:
+            xmin = 84.5134 
+            xmax = 98.4745 
+            text = "" 
+        intervals [32]:
+            xmin = 98.4745 
+            xmax = 100.079 
+            text = "NGC=RESTR=PRF 3SG.ACT-leave=SUB.FIN CONJ" 
+        intervals [33]:
+            xmin = 100.079 
+            xmax = 105.48 
+            text = "" 
+        intervals [34]:
+            xmin = 105.48 
+            xmax = 106.475 
+            text = "2SG.ACT-know" 
+        intervals [35]:
+            xmin = 106.475 
+            xmax = 121.257 
+            text = "" 
+        intervals [36]:
+            xmin = 121.257 
+            xmax = 122.17 
+            text = "3SG.ACT-have" 
+        intervals [37]:
+            xmin = 122.17 
+            xmax = 123.663 
+            text = "" 
+        intervals [38]:
+            xmin = 123.663 
+            xmax = 124.272 
+            text = "3SG.ACT-have" 
+        intervals [39]:
+            xmin = 124.272 
+            xmax = 129.374 
+            text = "" 
+        intervals [40]:
+            xmin = 129.374 
+            xmax = 131.034 
+            text = "other.entity SUB.TEMP HAB 2SG.ACT-talk" 
+        intervals [41]:
+            xmin = 131.034 
+            xmax = 146.183 
+            text = "" 
+        intervals [42]:
+            xmin = 146.183 
+            xmax = 147.234 
+            text = "stay there" 
+        intervals [43]:
+            xmin = 147.234 
+            xmax = 148.257 
+            text = "" 
+        intervals [44]:
+            xmin = 148.257 
+            xmax = 149.751 
+            text = "port side ALL" 
+        intervals [45]:
+            xmin = 149.751 
+            xmax = 155.037 
+            text = "" 
+        intervals [46]:
+            xmin = 155.037 
+            xmax = 155.756 
+            text = "3SG=FOC" 
+        intervals [47]:
+            xmin = 155.756 
+            xmax = 158.662 
+            text = "" 
+    item [11]:
+        class = "IntervalTier" 
+        name = "P2.tranls.pt" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.0846 
+            text = "" 
+        intervals [2]:
+            xmin = 17.0846 
+            xmax = 18.3015 
+            text = "tem um" 
+        intervals [3]:
+            xmin = 18.3015 
+            xmax = 19.4631 
+            text = "" 
+        intervals [4]:
+            xmin = 19.4631 
+            xmax = 21.3715 
+            text = "velho" 
+        intervals [5]:
+            xmin = 21.3715 
+            xmax = 23.1685 
+            text = "" 
+        intervals [6]:
+            xmin = 23.1685 
+            xmax = 25.1598 
+            text = "que mora aqui na cidade," 
+        intervals [7]:
+            xmin = 25.1598 
+            xmax = 26.7916 
+            text = "" 
+        intervals [8]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "aqui mesmo mora" 
+        intervals [9]:
+            xmin = 27.732 
+            xmax = 29.668 
+            text = "" 
+        intervals [10]:
+            xmin = 29.668 
+            xmax = 30.7743 
+            text = "E ele" 
+        intervals [11]:
+            xmin = 30.7743 
+            xmax = 33.6312 
+            text = "" 
+        intervals [12]:
+            xmin = 33.6312 
+            xmax = 34.7928 
+            text = "muita das vezes" 
+        intervals [13]:
+            xmin = 34.7928 
+            xmax = 35.1247 
+            text = "" 
+        intervals [14]:
+            xmin = 35.1247 
+            xmax = 36.7012 
+            text = "as pessoa procurem ele," 
+        intervals [15]:
+            xmin = 36.7012 
+            xmax = 37.0607 
+            text = "" 
+        intervals [16]:
+            xmin = 37.0607 
+            xmax = 38.6649 
+            text = "para pedir com ele alguma coisa," 
+        intervals [17]:
+            xmin = 38.6649 
+            xmax = 43.1499 
+            text = "" 
+        intervals [18]:
+            xmin = 43.1499 
+            xmax = 46.5518 
+            text = "as vezes ajuda,as vezes tambem nao ajuda os outros," 
+        intervals [19]:
+            xmin = 46.5518 
+            xmax = 50.0919 
+            text = "" 
+        intervals [20]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "um velho," 
+        intervals [21]:
+            xmin = 51.3097 
+            xmax = 56.7469 
+            text = "" 
+        intervals [22]:
+            xmin = 56.7469 
+            xmax = 60.7849 
+            text = "ajuda algumas pessoa as outras pessoa não ajuda," 
+        intervals [23]:
+            xmin = 60.7849 
+            xmax = 63.4258 
+            text = "" 
+        intervals [24]:
+            xmin = 63.4258 
+            xmax = 66.8 
+            text = "escolha só as vezes pra dá algumas coisa para os outros," 
+        intervals [25]:
+            xmin = 66.8 
+            xmax = 72.8016 
+            text = "" 
+        intervals [26]:
+            xmin = 72.8016 
+            xmax = 74.0958 
+            text = "o que eles pedirem dele" 
+        intervals [27]:
+            xmin = 74.0958 
+            xmax = 81.0286 
+            text = "" 
+        intervals [28]:
+            xmin = 81.0286 
+            xmax = 82.9093 
+            text = "pra nós nunca deu pra nós, algumas coisa" 
+        intervals [29]:
+            xmin = 82.9093 
+            xmax = 83.3518 
+            text = "" 
+        intervals [30]:
+            xmin = 83.3518 
+            xmax = 84.5134 
+            text = "mas para os outros ele dá" 
+        intervals [31]:
+            xmin = 84.5134 
+            xmax = 98.4745 
+            text = "" 
+        intervals [32]:
+            xmin = 98.4745 
+            xmax = 100.079 
+            text = "pouco pra sair de lá," 
+        intervals [33]:
+            xmin = 100.079 
+            xmax = 105.48 
+            text = "" 
+        intervals [34]:
+            xmin = 105.48 
+            xmax = 106.475 
+            text = "voce conhece" 
+        intervals [35]:
+            xmin = 106.475 
+            xmax = 121.257 
+            text = "" 
+        intervals [36]:
+            xmin = 121.257 
+            xmax = 122.17 
+            text = "tem" 
+        intervals [37]:
+            xmin = 122.17 
+            xmax = 123.663 
+            text = "" 
+        intervals [38]:
+            xmin = 123.663 
+            xmax = 124.272 
+            text = "" 
+        intervals [39]:
+            xmin = 124.272 
+            xmax = 129.374 
+            text = "" 
+        intervals [40]:
+            xmin = 129.374 
+            xmax = 131.034 
+            text = "as vezes voce conversa" 
+        intervals [41]:
+            xmin = 131.034 
+            xmax = 146.183 
+            text = "" 
+        intervals [42]:
+            xmin = 146.183 
+            xmax = 147.234 
+            text = "fica la" 
+        intervals [43]:
+            xmin = 147.234 
+            xmax = 148.257 
+            text = "" 
+        intervals [44]:
+            xmin = 148.257 
+            xmax = 149.751 
+            text = "pra ao lado da beira" 
+        intervals [45]:
+            xmin = 149.751 
+            xmax = 155.037 
+            text = "" 
+        intervals [46]:
+            xmin = 155.037 
+            xmax = 155.756 
+            text = "ele mesmo" 
+        intervals [47]:
+            xmin = 155.756 
+            xmax = 158.662 
+            text = "" 
+    item [12]:
+        class = "IntervalTier" 
+        name = "P2.transl.en" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 47 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.0846 
+            text = "" 
+        intervals [2]:
+            xmin = 17.0846 
+            xmax = 18.3015 
+            text = "has a" 
+        intervals [3]:
+            xmin = 18.3015 
+            xmax = 19.4631 
+            text = "" 
+        intervals [4]:
+            xmin = 19.4631 
+            xmax = 21.3715 
+            text = "old" 
+        intervals [5]:
+            xmin = 21.3715 
+            xmax = 23.1685 
+            text = "" 
+        intervals [6]:
+            xmin = 23.1685 
+            xmax = 25.1598 
+            text = "who lives here in the city," 
+        intervals [7]:
+            xmin = 25.1598 
+            xmax = 26.7916 
+            text = "" 
+        intervals [8]:
+            xmin = 26.7916 
+            xmax = 27.732 
+            text = "right here" 
+        intervals [9]:
+            xmin = 27.732 
+            xmax = 29.668 
+            text = "" 
+        intervals [10]:
+            xmin = 29.668 
+            xmax = 30.7743 
+            text = "And he" 
+        intervals [11]:
+            xmin = 30.7743 
+            xmax = 33.6312 
+            text = "" 
+        intervals [12]:
+            xmin = 33.6312 
+            xmax = 34.7928 
+            text = "a lot of the time" 
+        intervals [13]:
+            xmin = 34.7928 
+            xmax = 35.1247 
+            text = "" 
+        intervals [14]:
+            xmin = 35.1247 
+            xmax = 36.7012 
+            text = "people look for him," 
+        intervals [15]:
+            xmin = 36.7012 
+            xmax = 37.0607 
+            text = "" 
+        intervals [16]:
+            xmin = 37.0607 
+            xmax = 38.6649 
+            text = "to ask him for something," 
+        intervals [17]:
+            xmin = 38.6649 
+            xmax = 43.1499 
+            text = "" 
+        intervals [18]:
+            xmin = 43.1499 
+            xmax = 46.5518 
+            text = "Sometimes he helps, sometimes he doesn't help others," 
+        intervals [19]:
+            xmin = 46.5518 
+            xmax = 50.0919 
+            text = "" 
+        intervals [20]:
+            xmin = 50.0919 
+            xmax = 51.3097 
+            text = "an old man," 
+        intervals [21]:
+            xmin = 51.3097 
+            xmax = 56.7469 
+            text = "" 
+        intervals [22]:
+            xmin = 56.7469 
+            xmax = 60.7849 
+            text = "he helps some people but not others," 
+        intervals [23]:
+            xmin = 60.7849 
+            xmax = 63.4258 
+            text = "" 
+        intervals [24]:
+            xmin = 63.4258 
+            xmax = 66.8 
+            text = "he chooses only sometimes to give some things to others," 
+        intervals [25]:
+            xmin = 66.8 
+            xmax = 72.8016 
+            text = "" 
+        intervals [26]:
+            xmin = 72.8016 
+            xmax = 74.0958 
+            text = "whatever they ask of him" 
+        intervals [27]:
+            xmin = 74.0958 
+            xmax = 81.0286 
+            text = "" 
+        intervals [28]:
+            xmin = 81.0286 
+            xmax = 82.9093 
+            text = "to us, he never gave us anything" 
+        intervals [29]:
+            xmin = 82.9093 
+            xmax = 83.3518 
+            text = "" 
+        intervals [30]:
+            xmin = 83.3518 
+            xmax = 84.5134 
+            text = "but to others he gives" 
+        intervals [31]:
+            xmin = 84.5134 
+            xmax = 98.4745 
+            text = "" 
+        intervals [32]:
+            xmin = 98.4745 
+            xmax = 100.079 
+            text = "little to get out of there," 
+        intervals [33]:
+            xmin = 100.079 
+            xmax = 105.48 
+            text = "" 
+        intervals [34]:
+            xmin = 105.48 
+            xmax = 106.475 
+            text = "you know" 
+        intervals [35]:
+            xmin = 106.475 
+            xmax = 121.257 
+            text = "" 
+        intervals [36]:
+            xmin = 121.257 
+            xmax = 122.17 
+            text = "has" 
+        intervals [37]:
+            xmin = 122.17 
+            xmax = 123.663 
+            text = "" 
+        intervals [38]:
+            xmin = 123.663 
+            xmax = 124.272 
+            text = "" 
+        intervals [39]:
+            xmin = 124.272 
+            xmax = 129.374 
+            text = "" 
+        intervals [40]:
+            xmin = 129.374 
+            xmax = 131.034 
+            text = "sometimes you talk" 
+        intervals [41]:
+            xmin = 131.034 
+            xmax = 146.183 
+            text = "" 
+        intervals [42]:
+            xmin = 146.183 
+            xmax = 147.234 
+            text = "it is there" 
+        intervals [43]:
+            xmin = 147.234 
+            xmax = 148.257 
+            text = "" 
+        intervals [44]:
+            xmin = 148.257 
+            xmax = 149.751 
+            text = "on the side of the port" 
+        intervals [45]:
+            xmin = 149.751 
+            xmax = 155.037 
+            text = "" 
+        intervals [46]:
+            xmin = 155.037 
+            xmax = 155.756 
+            text = "he himself" 
+        intervals [47]:
+            xmin = 155.756 
+            xmax = 158.662 
+            text = "" 
+    item [13]:
+        class = "IntervalTier" 
+        name = "Comments" 
+        xmin = 0 
+        xmax = 158.662 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.15565 
+            text = "" 
+        intervals [2]:
+            xmin = 7.15565 
+            xmax = 9.2576 
+            text = "Verificar a tradução ou o trecho: 'saã' é sentir em Nheengatu." 
+        intervals [3]:
+            xmin = 9.2576 
+            xmax = 156.641 
+            text = "" 
+        intervals [4]:
+            xmin = 156.641 
+            xmax = 158.662 
+            text = "End of exercise. Uli: Super!" 
